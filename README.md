@@ -1,2 +1,2 @@
-# ckb-sdk-go
-GO SDK for Nervos CKB - a public layer 1 blockchain
+# muta-sdk-go
+GO SDK for Nervos Network Muta - a blockchain framework
